@@ -14,7 +14,6 @@
     </author>
 	
 	<content src="index.html" />
-    <content src="primlokke.js" />
 
     
 	<preference name="DisallowOverscroll" value="true" />
